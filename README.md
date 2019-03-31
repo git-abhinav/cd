@@ -1,1 +1,2 @@
-# cd
+# COMPILER DESIGN, semester 2
+
